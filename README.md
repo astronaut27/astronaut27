@@ -2,7 +2,7 @@
     </div>
 
 
-<p align="center"><img src="https://github.com/astronaut27/astronaut27/blob/master/main.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/astronaut27/astronaut27/master/main.png" /></p>
 
 # 🛰️ astronaut27
 **ML Engineer | Highload Systems | LLM Engineer**
@@ -72,7 +72,7 @@ Key technologies and tools used to build the LLM infrastructure.
 ---
 <br>
 
-<p align="center"><img src="https://github.com/astronaut27/astronaut27/blob/master/1.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/astronaut27/astronaut27/master/1.png"/></p>
 
 ## 🪙 About: The Engineer's Log
 
