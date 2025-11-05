@@ -3,14 +3,18 @@
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/astronaut27/astronaut27/master/main.png" /></p>
+<div align="center">
+<h1 style="text-align: center;">🛰️ astronaut27</h1>
 
-# 🛰️ astronaut27
 **ML Engineer | Highload Systems | LLM Engineer**
 
 *"Building reliable engines for large language models — one orbit at a time."*
 
-## 👋 Welcome Aboard!
+</div>
 
+<div align="center">
+<h3 style="text-align: center;"> 👋 Welcome Aboard!</h3>
+</div>
 🧑‍🚀 I'm an **ML Engineer** exploring how large language models run, scale, and survive under load.
 
 > **Mission Objective:** Architecting resilient LLM systems from training to inference.
