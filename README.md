@@ -36,11 +36,12 @@
 ### Recent Deployments & Reports
 
 * ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" alt="Docker Icon"/> CRAG in a Box
-  [Dockerized RAG benchmark for quick, reproducible performance testing](https://medium.com/@astronaut27/how-an-engineer-astronaut-prepared-metas-crag-benchmark-for-launch-in-docker-8ea8435f9fa2).
-* ### 🚧 [Upcoming:Choosing the Right Engine for Your LLM Ship]
-  Comparative analysis: LM Studio vs Ollama vs vLLM for local and scaled inference.
-* ### 🚧 [Upcoming: Monitoring LLM Systems]
-  A deep dive into observability and debugging strategies for production LLM stacks (Coming soon...).
+  [MEDIUM] [Dockerized RAG benchmark for quick, reproducible performance testing](https://medium.com/@astronaut27/how-an-engineer-astronaut-prepared-metas-crag-benchmark-for-launch-in-docker-8ea8435f9fa2).
+  [DEV.TO] [ Dockerized RAG benchmark for quick, reproducible performance testing](https://dev.to/astronaut27/mission-accomplished-how-an-engineer-astronaut-prepared-metas-crag-benchmark-for-launch-in-4bl6).
+* ### 🚀 Choosing the Right Engine for Your LLM Ship
+  [MEDIUM] [Comparative analysis: LM Studio vs Ollama vs vLLM for local and scaled inference.](https://medium.com/@astronaut27/choosing-the-right-engine-to-launch-your-llm-lm-studio-ollama-and-vllm-6541dc941747)
+* ### 🧑‍🚀 LLM Engine Telemetry: How to Profile Models
+  [MEDIUM] [LLM Engine Telemetry: How to Profile Models and See Where Performance is Lost](https://medium.com/@astronaut27/llm-engine-telemetry-how-to-profile-models-and-see-where-performance-is-lost-edb62b43a523)
 
 <br>
 
